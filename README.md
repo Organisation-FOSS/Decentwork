@@ -9,6 +9,6 @@ Don't use Decentwork as of now because it is unfinished and possibly unsecure, i
 2. For consumers and users - Admittably, while not very large as a website grows and not much of a problem for newer devices, older devices may have drops in performance acting as a host however in return the privacy benefits are immense as no big organisation or person has control of all the data and security vulnerabilities while always prevelant are likely much more localised than with centralised networks (assuming we can actually understand how to make it secure).
 
 # How?
-1. Consumers/Users - You have come to the right github repo, this is where you can install the software required for you to access any websites using this technology and temporarily (only while you are accessing the website) become a server although it is required for you to also install our extenstion for your given browser in order to allow you to access these special websites, the ur is here - (Insert uRL).
-2. Web Developers - You have come to the wrong repo, the sdk for use on a website is here - (Insert Url) When finished
+1. Consumers/Users - You have come to the right github repo, this is where you can install the software required for you to access any websites using this technology and temporarily (only while you are accessing the website) become a server although it is required for you to also install our extenstion for your given browser in order to allow you to access these special websites, the url is [here](https://github.com/Organisation-FOSS/Decentwork-Extenstion).
+2. Web Developers - You have come to the wrong repo, the sdk for use on a website is [here](https://github.com/Organisation-FOSS/Decentwork-SKD).
 
