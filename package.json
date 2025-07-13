@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "sveltekitwebsite",
 	"private": true,
 	"version": "0.0.1",
@@ -26,4 +27,9 @@
 	"dependencies": {
 		"gun": "^0.2020.1240"
 	}
+=======
+  "devDependencies": {
+    "@sveltejs/adapter-static": "^3.0.8"
+  }
+>>>>>>> 69e575c10a934bf7263feb97302812ef69a0b57b
 }
